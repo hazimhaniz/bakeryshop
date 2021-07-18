@@ -1,0 +1,47 @@
+	body{background-image: url(White-Wallpaper-2-2.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	}
+	button{font-family:garamond;font-weight:bold; font-size:15px;}
+	
+	
+	#nav-back{ position: absolute;left:450px;top:20px;
+position:absolute;top:4px;opacity:0.7;}
+
+	#logo{margin-left:850px;margin-right:auto;border-radius:10px;z-index: 1000;
+position:relative;}
+
+	#lnav{width:40px;height: 70px;
+	margin-left:5%;margin-top:5%;
+	}
+	#editbtn{margin-right:17%;margin-top:3%;  }
+	#lnav button{width:150px;height: 70px;margin-bottom: 30px; border-radius:35px; box-shadow:5px 5px 5px 5px #808080;
+	
+	background-image:url(White-Wallpaper-2-2.jpg);
+	background-size:150px 100px;}
+	
+	#admin-photo img{width:80px; height:80px; margin-left:50%;margin-top:80%; }
+	
+	#admin-photo{float: left; margin-bottom:20%; }
+	
+	#lnav{position: absolute;top:150px;}
+	
+	#lnav{float: left;}
+	
+	#inner-content table{position: absolute;top: 400px;left: 4000px;
+	 box-shadow:5px 5px 5px 5px #bbb;
+
+	 }
+	
+	table tr td{padding: 30px 20px 20px 10px;
+	font-family:cursive; 
+}
+	table tr th{padding:10px 0px 20px 20px;
+	font-family:garamond;
+	font-size:20px;}
+	#editbtn{position: absolute;top:200px;right:100px;}
+
+
+
+#out button{position: absolute;right:400px;width:160px ;height:40px;}
+.name{font-family:cursive; font-size:25px; margin-left:35px; color:white;}
